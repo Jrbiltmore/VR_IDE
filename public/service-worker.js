@@ -1,6 +1,6 @@
 // service-worker.js
 
-const CACHE_NAME = 'my-comprehensive-webapp-cache-v1';
+const CACHE_NAME = 'vr_ride-cache-v1';
 const urlsToCache = [
   '/',
   '/index.html',
